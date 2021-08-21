@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title> Lab X </title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body style="background-color:#dcdcdc;">
+
+<div class="header1">
+<h1> Lab X - Introduction to HTML Coding </h1> </div>
+<div class="header2">
+<h2> Drinking from the fire hydrant, but it's all going up the nose </h2> </div>
+<h3> <a href="https://www.curtismichael.myportfolio.com" target="_blank">
+  Professional portfolio utilizing Adobe Cloud Software </a> </h3>
+
+<p style="font-size:110%"> A start to developing my own whitewater information website </p>
+
+<table style="width:100%">
+  <tr>
+    <td style="vertical-align:top">
+      <a href="https://www.google.com/maps/d/u/0/" target="_blank">
+	     <img src="https://www.nationsonline.org/maps/Physical-World-Map.jpg"
+       alt="The World" style="width:425px;height:270px;">
+	     </a>
+       <p> Head to Google MyMaps to start your own map! </p>
+    </td>
+    <td>
+        <picture>
+          <img src="https://drive.google.com/uc?export=view&id=1pcppba0nEOGg8ZbJpw2TLjfenF7hCh0s"
+          style="width:100%; max-width:800px; height:auto;" title="Bottom of Chiflo Trail"
+          alt="Bottom of Chiflo Trail">
+        </picture>
+        <p> Put-in, at the bottom of the Chiflo Trail. <br> A photo from my google drive. </p>
+    </td>
+  </tr>
+    <tr>
+      <td>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51853.2588218472!2d-105.72053163285088!3d36.69897581698216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87170fbec8b076dd%3A0xc26ab937bc131a38!2sChiflo%20Trail!5e0!3m2!1sen!2sus!4v1617830548082!5m2!1sen!2sus"
+        width="300" height="600"; style="border:0;" allowfullscreen="" loading="lazy">
+      </iframe>
+      </td>
+    <td>
+      <table style="width:100%;">
+        <tr>
+          <td>
+            <a href="google.mymaps_tutorial.html"> Lab X, Part 2 Section 2: Embed "Google My Maps" into a Website </a>
+          </td>
+        </tr>
+        <tr>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
