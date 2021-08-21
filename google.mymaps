@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title> Part 2, Section 3 </title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body style="background-color:#dcdcdc;">
+
+<div class="header1">
+<h1> Upper Taos Box Information </h1> </div>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-105.72216510772705%2C36.672549521187506%2C-105.67212581634523%2C36.70204245872289&amp;layer=mapnik"
+style="border: 1px solid black"></iframe><br/><small>
+  <a href="https://www.openstreetmap.org/#map=15/36.6873/-105.6971">View Larger Map</a></small>
+
+</body>
+</html>
